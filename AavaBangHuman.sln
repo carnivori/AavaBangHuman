@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AavaBangHuman", "AavaBangHuman.csproj", "{12E4A37F-BB99-011F-6E4F-DBB55EFA543B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AavaBangHuman.Editor", "AavaBangHuman.Editor.csproj", "{F5283C2B-905E-0E1E-137C-AD0BE836708F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E4A37F-BB99-011F-6E4F-DBB55EFA543B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E4A37F-BB99-011F-6E4F-DBB55EFA543B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E4A37F-BB99-011F-6E4F-DBB55EFA543B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E4A37F-BB99-011F-6E4F-DBB55EFA543B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5283C2B-905E-0E1E-137C-AD0BE836708F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5283C2B-905E-0E1E-137C-AD0BE836708F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5283C2B-905E-0E1E-137C-AD0BE836708F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5283C2B-905E-0E1E-137C-AD0BE836708F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
